@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.1.32414.318
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Facebook Message Deleter", "Facebook Message Deleter\Facebook Message Deleter.csproj", "{FE7409B7-70A5-48B5-8BFC-5172FA200ED3}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{FE7409B7-70A5-48B5-8BFC-5172FA200ED3}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FE7409B7-70A5-48B5-8BFC-5172FA200ED3}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FE7409B7-70A5-48B5-8BFC-5172FA200ED3}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FE7409B7-70A5-48B5-8BFC-5172FA200ED3}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {9EFA67C5-7159-49EE-8D61-D0BF0AC1DF6B}
+	EndGlobalSection
+EndGlobal
